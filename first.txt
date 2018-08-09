@@ -1,3 +1,6 @@
 this is first.txt file.
+<<<<<<< HEAD
 d
 gggg
+=======
+>>>>>>> b3ef21470ad5dacf186a6e8b95ca64302d390cb0
